@@ -1,0 +1,1 @@
+docker run -d --name M4-FINAL-PROJECT-REDIS -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
